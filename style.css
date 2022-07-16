@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #f53d2d;
+    position; fixed;
+    overflow: wrap;
+
+}
+.shoppee-header{
+    padding: 5px;
+    margin: 0, auto;
+}
+.nav-container {
+    margin: 5px;
+    padding; 20px
+    align-items: space-between;
+}
+
+.nav-left{
+    display: inline-block;
+    background-color: orangered;
+}
+.nav-right{
+    float: right;
+    display: inline-block;
+    background-color: orangered;
+}
+
+.wrapper-3div{
+    margin: 5px;
+    padding 20px;
+    display: flex;
+}
+nav ul li{
+    display: inline-block;
+    margin: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: white;   
+}
+
+.items-box{
+    align-items: center;
+}
+
+
+
+
+
+
+
